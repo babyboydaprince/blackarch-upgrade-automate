@@ -1,2 +1,2 @@
 # blackarch-upgrade-automate
-Auxiliairy OS upgrade automation for blackarch distro.
+Auxiliairy OS upgrade automation for blackarch distro. ( UNDER CONSTRUCTION )
